@@ -22,5 +22,5 @@ An HTMLNode is equivalent to a tag (li, ul, div, etc.) in HTML.
 #### Fizzler
 
 Fizzler supports CSS selector  
-**QuerySelectorAll:** Find the child nodes of the current node, based on the input css selector.
+**QuerySelectorAll:** Find the child nodes of the current node, based on the input css selector.  
 **QuerySelector:** Find the first child node of the current node, based on the input css selector.
