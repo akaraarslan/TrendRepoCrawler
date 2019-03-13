@@ -1,4 +1,4 @@
-Crawler data from a website with Html Agility Pack, Fizzler  (.NET / C#)
+This project is crawler data from a website with Html Agility Pack, Fizzler (.NET / C#) example. It gets trend repository from github and list in console
 
 ### Notes:
 
